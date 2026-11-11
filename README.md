@@ -1,8 +1,8 @@
 # API Évaluations de Formation — FastAPI + Airflow
 
-Nouvelle version de POC1 (le tableau de bord Streamlit reste dans `../POC1`).
+Dernière version du projet 
 
-- **Airflow** exécute chaque nuit à **2h (heure de Paris)** le DAG `evaluations_daily` :
+- **Airflow** exécute chaque nuit à **2h** le DAG `evaluations_daily` :
   ingestion des CSV déposés, prétraitement, ré-entraînement de BERTopic, contrôle qualité.
 - **FastAPI** sert en lecture seule les évaluations, les indicateurs et les thèmes.
 - Les deux partagent le dossier `data/` (base SQLite `warehouse.db`, modèles BERTopic).
@@ -21,7 +21,7 @@ Nouvelle version de POC1 (le tableau de bord Streamlit reste dans `../POC1`).
 
 ```
 POC1_Final/
-├── pipeline/             # code métier, sans Airflow ni FastAPI
+├── pipeline/             
 │   ├── config.py         # chemins (EVAL_DATA_DIR), réglages BERTopic, seuils qualité
 │   ├── db.py             # schéma SQLite, connexions
 │   ├── ingestion.py      # validation et chargement des CSV
@@ -33,7 +33,7 @@ POC1_Final/
 ├── app/                  # API FastAPI
 │   ├── main.py, config.py, security.py, dependencies.py, schemas.py
 │   └── routers/          # auth, evaluations, analytics, topics, system
-├── tests/                # 30 tests (pytest)
+├── tests/                # (pytest)
 ├── docker/               # api.Dockerfile, airflow.Dockerfile
 ├── docker-compose.yml
 └── data/                 # seed/ (jeu initial), incoming/, archive/, rejected/, models/
@@ -85,8 +85,6 @@ Copier un CSV dans `data/incoming/`, avec les colonnes du jeu initial :
 - les lignes invalides (note hors 1-5, date invalide, colonne en trop...) sont écrites dans
   `data/rejected/<fichier>_rejets.csv` avec leur motif ;
 - le fichier est déplacé dans `data/archive/AAAA-MM-JJ/`.
-
-Déposer le fichier complet (l'écrire en `.tmp` puis le renommer en `.csv`).
 
 ## API
 
