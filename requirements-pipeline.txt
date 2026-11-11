@@ -1,0 +1,11 @@
+# Pipeline (tâches Airflow) : ingestion, prétraitement, BERTopic
+# PyTorch en version CPU : installer avec --extra-index-url https://download.pytorch.org/whl/cpu
+pandas
+scikit-learn
+torch==2.8.0
+sentence-transformers==5.2.0
+bertopic==0.17.4
+umap-learn==0.5.9.post2
+# 0.8.40 : dernière version publiée en roue précompilée pour Linux / Python 3.12
+# (la 0.8.41 doit être compilée, et l'image Airflow n'autorise pas gcc)
+hdbscan==0.8.40

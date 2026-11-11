@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+# Données produites par le pipeline (le jeu initial data/seed/ reste versionné)
+data/warehouse.db*
+data/incoming/*
+data/archive/*
+data/rejected/*
+data/models/*
+!data/*/.gitkeep

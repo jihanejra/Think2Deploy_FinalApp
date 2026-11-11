@@ -1,0 +1,53 @@
+# Airflow (planification du pipeline) + API FastAPI (lecture des résultats).
+# Les deux conteneurs partagent ./data : CSV déposés, base SQLite, modèles BERTopic.
+#
+#   docker compose up -d --build
+#   Airflow : http://localhost:8080      API : http://localhost:8000/docs
+
+x-project-env: &project-env
+  EVAL_DATA_DIR: /opt/project/data
+  TZ: Europe/Paris
+
+services:
+  airflow:
+    build:
+      context: .
+      dockerfile: docker/airflow.Dockerfile
+    # Mode « standalone » : base de métadonnées SQLite, LocalExecutor, scheduler et
+    # interface dans un seul conteneur. Suffisant pour un POC ; en production :
+    # PostgreSQL et un service par composant (docker-compose officiel d'Airflow).
+    # L'historique des exécutions du DAG est perdu si le conteneur est recréé ;
+    # les données et résultats, eux, sont dans ./data.
+    command: standalone
+    environment:
+      <<: *project-env
+      PYTHONPATH: /opt/project
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__DEFAULT_TIMEZONE: Europe/Paris
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "False"
+      # Interface sans mot de passe : uniquement pour un poste de développement
+      AIRFLOW__CORE__SIMPLE_AUTH_MANAGER_ALL_ADMINS: "True"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./pipeline:/opt/project/pipeline
+      - ./data:/opt/project/data
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+
+  api:
+    build:
+      context: .
+      dockerfile: docker/api.Dockerfile
+    # Même utilisateur que le conteneur Airflow (50000, groupe 0) : les fichiers de
+    # ./data créés par l'un restent accessibles à l'autre
+    user: "50000:0"
+    environment:
+      <<: *project-env
+      # À remplacer par un secret long et aléatoire (fichier .env non versionné)
+      API_JWT_SECRET: ${API_JWT_SECRET:-changez-moi}
+    volumes:
+      - ./data:/opt/project/data
+    ports:
+      - "8000:8000"
+    restart: unless-stopped

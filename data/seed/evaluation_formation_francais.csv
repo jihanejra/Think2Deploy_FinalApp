@@ -1,0 +1,301 @@
+evaluation_id,formation_id,type_formation,formateur_id,satisfaction,contenu,logistique,applicabilite,commentaire,langue,date
+1,F011,Tableau,FOR31,1,,3.0,1.0,Manque d'exemples concrets et de retours d'expérience terrain Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-01-17
+2,F010,Agile Scrum,FOR28,5,4.0,5.0,4.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-06-23
+3,F013,Gestion de projet,FOR38,1,1.0,4.0,1.0,Formation décevante par rapport aux attentes annoncées,FR,2024-07-12
+4,F011,Tableau,FOR33,3,2.0,2.0,3.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-02-21
+5,F014,Marketing Digital,FOR41,2,1.0,4.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-03-28
+6,F008,Management,FOR23,3,2.0,4.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-06-10
+7,F015,Ressources Humaines,FOR45,4,4.0,5.0,3.0,Formation SAP technique mais bien expliquée pour les débutants,FR,2024-10-02
+8,F015,Ressources Humaines,FOR45,4,3.0,1.0,3.0,Support de cours bien fait mais exercices trop simples,FR,2024-12-14
+9,F007,Python Data,FOR21,4,3.0,2.0,5.0,Soft Skills utiles pour améliorer la communication en équipe,FR,2024-06-23
+10,F008,Management,FOR22,3,2.0,2.0,3.0,"Contenu intéressant mais le rythme était parfois trop rapide Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-10-03
+11,F015,Ressources Humaines,FOR43,5,4.0,2.0,5.0,Formation SAP technique mais bien expliquée pour les débutants Un bon investissement pour mon développement de compétences.,FR,2024-02-10
+12,F002,SAP,FOR06,3,2.0,4.0,4.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-10-03
+13,F012,Analyse de données,FOR35,4,4.0,5.0,,"Très bonne organisation logistique, salle confortable et équipée Le formateur FOR35 a fait preuve d'une grande expertise.",FR,2024-06-22
+14,F004,Soft Skills,FOR10,1,1.0,1.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-05-22
+15,F003,Processus Métier,FOR09,5,4.0,5.0,4.0,"Très bonne organisation logistique, salle confortable et équipée Je recommanderais cette formation à mes collègues sans hésitation.",FR,2024-06-30
+16,F012,Analyse de données,FOR34,2,1.0,3.0,3.0,"Formation décevante par rapport aux attentes annoncées Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-05-22
+17,F002,SAP,FOR05,4,3.0,3.0,4.0,,FR,2024-01-31
+18,F007,Python Data,FOR20,5,4.0,3.0,4.0,Checklists et templates fournis très utiles pour la mise en œuvre,FR,2024-02-01
+19,F010,Agile Scrum,FOR29,5,4.0,2.0,4.0,Formation utile mais durée un peu courte pour le contenu abordé Le formateur FOR29 a fait preuve d'une grande expertise.,FR,2024-12-11
+20,F015,Ressources Humaines,FOR45,2,1.0,2.0,3.0,Manque d'exemples concrets et de retours d'expérience terrain Les outils présentés sont directement applicables dans mon service.,FR,2024-04-14
+21,F005,Excel Avancé,FOR14,2,2.0,5.0,1.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-10-15
+22,F004,Soft Skills,FOR12,4,3.0,3.0,3.0,Matériel pédagogique de qualité et ressources complémentaires utiles,FR,2024-12-26
+23,F013,Gestion de projet,FOR39,5,4.0,3.0,4.0,Recommandation sans réserve pour cette formation de qualité Les outils présentés sont directement applicables dans mon service.,FR,2024-11-05
+24,F011,Tableau,FOR33,3,3.0,2.0,3.0,"Formation correcte mais un peu trop théorique à mon goût Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-11-22
+25,F008,Management,FOR24,4,3.0,2.0,5.0,Support de cours bien fait mais exercices trop simples,FR,2024-07-08
+26,F003,Processus Métier,FOR07,3,2.0,4.0,2.0,Formation correcte mais un peu trop théorique à mon goût L'approche pratique m'a beaucoup apporté professionnellement.,FR,2024-07-27
+27,F015,Ressources Humaines,FOR43,2,1.0,2.0,2.0,Pédagogie adaptée mais manque de profondeur sur certains points Le formateur FOR43 a fait preuve d'une grande expertise.,FR,2024-07-14
+28,F004,Soft Skills,FOR10,4,3.0,1.0,4.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets Le formateur FOR10 a fait preuve d'une grande expertise.,FR,2024-05-22
+29,F011,Tableau,FOR33,3,2.0,4.0,3.0,Formation correcte mais un peu trop théorique à mon goût Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-06-25
+30,F010,Agile Scrum,FOR30,1,1.0,2.0,1.0,Manque d'exemples concrets et de retours d'expérience terrain,FR,2024-10-02
+31,F012,Analyse de données,FOR36,2,1.0,4.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-06-02
+32,F006,Power BI,FOR17,3,2.0,5.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-06-03
+33,F005,Excel Avancé,FOR14,2,2.0,5.0,3.0,Pédagogie adaptée mais manque de profondeur sur certains points,FR,2024-03-27
+34,F011,Tableau,FOR33,5,4.0,4.0,4.0,Support de cours bien fait mais exercices trop simples Je souhaiterais approfondir certains aspects lors d'une prochaine session.,FR,2024-08-31
+35,F008,Management,FOR23,5,5.0,5.0,5.0,"Formation très utile et bien structurée, je recommande vivement",FR,2024-02-24
+36,F013,Gestion de projet,FOR39,5,4.0,2.0,5.0,Horaires adaptés permettant un bon rythme d'apprentissage,FR,2024-10-13
+37,F015,Ressources Humaines,FOR44,5,5.0,5.0,5.0,Bon équilibre entre apports théoriques et mises en pratique,FR,2024-05-06
+38,F013,Gestion de projet,FOR39,4,4.0,2.0,3.0,Soft Skills utiles pour améliorer la communication en équipe L'approche pratique m'a beaucoup apporté professionnellement.,FR,2024-02-11
+39,F012,Analyse de données,FOR34,3,3.0,5.0,,Organisation correcte mais matériel informatique à améliorer Un bon investissement pour mon développement de compétences.,FR,2024-12-22
+40,F001,Lean Six Sigma,FOR02,3,3.0,3.0,3.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-07-18
+41,F007,Python Data,FOR21,2,1.0,2.0,3.0,Formation correcte mais un peu trop théorique à mon goût Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-03-10
+42,F005,Excel Avancé,FOR14,4,4.0,5.0,,Soft Skills utiles pour améliorer la communication en équipe,FR,2024-08-28
+43,F006,Power BI,FOR16,1,1.0,2.0,1.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-05-02
+44,F010,Agile Scrum,FOR28,4,4.0,3.0,5.0,"Très bonne organisation logistique, salle confortable et équipée",FR,2024-03-24
+45,F001,Lean Six Sigma,FOR02,5,5.0,5.0,4.0,Rythme adapté permettant une bonne assimilation des connaissances,FR,2024-11-17
+46,F005,Excel Avancé,FOR15,5,4.0,4.0,5.0,Très satisfait de cette formation qui répond à mes attentes Cette formation correspondait parfaitement à mes attentes initiales.,FR,2024-01-07
+47,F002,SAP,FOR05,3,3.0,3.0,4.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-10-02
+48,F014,Marketing Digital,FOR42,4,3.0,4.0,3.0,Matériel pédagogique de qualité et ressources complémentaires utiles,FR,2024-12-08
+49,F014,Marketing Digital,FOR41,2,2.0,4.0,3.0,Contenu de qualité mais manque d'interactivité avec le formateur,FR,2024-09-21
+50,F012,Analyse de données,FOR35,4,3.0,5.0,4.0,Matériel pédagogique de qualité et ressources complémentaires utiles,FR,2024-02-17
+51,F004,Soft Skills,FOR11,5,5.0,5.0,5.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets Le contenu était dense mais parfaitement structuré.,FR,2024-05-18
+52,F012,Analyse de données,FOR34,2,1.0,3.0,2.0,Manque d'exemples concrets et de retours d'expérience terrain,FR,2024-02-21
+53,F006,Power BI,FOR16,2,2.0,2.0,3.0,Contenu de qualité mais manque d'interactivité avec le formateur,FR,2024-03-05
+54,F002,SAP,FOR04,5,5.0,4.0,4.0,Soft Skills utiles pour améliorer la communication en équipe,FR,2024-09-01
+55,F008,Management,FOR22,5,4.0,3.0,5.0,Python Data : bon équilibre théorie/pratique pour l'analyse Je souhaiterais approfondir certains aspects lors d'une prochaine session.,FR,2024-03-01
+56,F010,Agile Scrum,FOR30,2,2.0,5.0,2.0,"Rythme trop rapide, pas assez de temps pour assimiler Un bon investissement pour mon développement de compétences.",FR,2024-01-31
+57,F013,Gestion de projet,FOR37,1,1.0,3.0,1.0,Formateur compétent mais manque d'exemples concrets d'application Le contenu était dense mais parfaitement structuré.,FR,2024-12-18
+58,F004,Soft Skills,FOR11,3,3.0,2.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-10-05
+59,F005,Excel Avancé,FOR13,2,2.0,5.0,3.0,Contenu de qualité mais manque d'interactivité avec le formateur,FR,2024-05-19
+60,F002,SAP,FOR06,1,1.0,1.0,2.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-12-10
+61,F013,Gestion de projet,FOR37,4,4.0,4.0,5.0,Contenu dense mais bien présenté par un formateur expérimenté,FR,2024-09-08
+62,F007,Python Data,FOR20,3,2.0,4.0,3.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-07-24
+63,F008,Management,FOR22,2,2.0,2.0,3.0,Formation décevante par rapport aux attentes annoncées,FR,2024-04-06
+64,F008,Management,FOR24,4,3.0,4.0,4.0,Matériel pédagogique de qualité et ressources complémentaires utiles,FR,2024-09-05
+65,F010,Agile Scrum,FOR28,2,1.0,1.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-03-19
+66,F009,Communication,FOR27,3,3.0,5.0,4.0,Contenu intéressant mais le rythme était parfois trop rapide Un bon investissement pour mon développement de compétences.,FR,2024-09-17
+67,F002,SAP,FOR05,4,4.0,2.0,4.0,Checklists et templates fournis très utiles pour la mise en œuvre,FR,2024-12-03
+68,F009,Communication,FOR26,3,3.0,5.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-04-29
+69,F006,Power BI,FOR18,4,4.0,5.0,5.0,Support de cours bien fait mais exercices trop simples,FR,2024-01-19
+70,F006,Power BI,FOR16,5,4.0,3.0,5.0,Support de cours bien fait mais exercices trop simples Les outils présentés sont directement applicables dans mon service.,FR,2024-06-22
+71,F002,SAP,FOR05,5,5.0,5.0,4.0,Salle de formation confortable et bien équipée techniquement Les outils présentés sont directement applicables dans mon service.,FR,2024-04-26
+72,F002,SAP,FOR06,1,1.0,1.0,1.0,"Formation trop théorique, difficile à appliquer au quotidien Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-05-05
+73,F013,Gestion de projet,FOR37,3,2.0,5.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-05-10
+74,F015,Ressources Humaines,FOR44,3,2.0,2.0,3.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-08-05
+75,F005,Excel Avancé,FOR13,4,3.0,3.0,4.0,Checklists et templates fournis très utiles pour la mise en œuvre Les outils présentés sont directement applicables dans mon service.,FR,2024-01-12
+76,F005,Excel Avancé,FOR13,5,4.0,5.0,5.0,Formation SAP technique mais bien expliquée pour les débutants,FR,2024-06-29
+77,F005,Excel Avancé,FOR15,2,1.0,4.0,1.0,"Formation trop théorique, difficile à appliquer au quotidien",FR,2024-02-16
+78,F007,Python Data,FOR19,3,3.0,3.0,3.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-06-22
+79,F002,SAP,FOR04,2,2.0,2.0,1.0,Contenu de qualité mais manque d'interactivité avec le formateur,FR,2024-08-20
+80,F005,Excel Avancé,FOR15,4,4.0,2.0,4.0,"Formation très utile et bien structurée, je recommande vivement",FR,2024-10-14
+81,F011,Tableau,FOR31,4,4.0,5.0,3.0,"Excellent formateur, très pédagogue et à l'écoute des participants Le contenu était dense mais parfaitement structuré.",FR,2024-02-29
+82,F003,Processus Métier,FOR08,4,4.0,3.0,5.0,"Très bonne organisation logistique, salle confortable et équipée",FR,2024-11-11
+83,F001,Lean Six Sigma,FOR03,4,3.0,2.0,5.0,Pauses bien réparties permettant de maintenir la concentration Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-05-21
+84,F014,Marketing Digital,FOR41,1,1.0,2.0,1.0,Formateur compétent mais manque d'exemples concrets d'application,FR,2024-04-15
+85,F004,Soft Skills,FOR12,2,1.0,4.0,3.0,"Formation correcte mais un peu trop théorique à mon goût Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-03-07
+86,F002,SAP,FOR06,2,1.0,2.0,1.0,Formateur compétent mais manque d'exemples concrets d'application,FR,2024-09-26
+87,F008,Management,FOR23,5,5.0,3.0,4.0,Horaires adaptés permettant un bon rythme d'apprentissage,FR,2024-08-22
+88,F008,Management,FOR23,4,4.0,1.0,4.0,"Salle de formation confortable et bien équipée techniquement Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-05-20
+89,F012,Analyse de données,FOR35,4,4.0,5.0,4.0,"Très bonne organisation logistique, salle confortable et équipée",FR,2024-02-28
+90,F013,Gestion de projet,FOR39,2,1.0,5.0,2.0,"Rythme trop rapide, pas assez de temps pour assimiler",FR,2024-02-18
+91,F005,Excel Avancé,FOR14,2,2.0,1.0,1.0,"Rythme trop rapide, pas assez de temps pour assimiler Cette formation correspondait parfaitement à mes attentes initiales.",FR,2024-03-07
+92,F009,Communication,FOR27,3,3.0,4.0,3.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-11-03
+93,F009,Communication,FOR25,2,1.0,2.0,3.0,"Formation trop théorique, difficile à appliquer au quotidien Les outils présentés sont directement applicables dans mon service.",FR,2024-10-20
+94,F009,Communication,FOR27,5,,2.0,5.0,Python Data : bon équilibre théorie/pratique pour l'analyse,FR,2024-06-28
+95,F007,Python Data,FOR19,2,1.0,2.0,1.0,"Rythme trop rapide, pas assez de temps pour assimiler",FR,2024-06-23
+96,F006,Power BI,FOR18,4,3.0,3.0,3.0,Horaires adaptés permettant un bon rythme d'apprentissage Le contenu était dense mais parfaitement structuré.,FR,2024-12-04
+97,F007,Python Data,FOR20,2,1.0,4.0,2.0,Formation décevante par rapport aux attentes annoncées,FR,2024-06-06
+98,F010,Agile Scrum,FOR28,1,1.0,4.0,1.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-08-08
+99,F012,Analyse de données,FOR34,5,5.0,2.0,5.0,"Excellent formateur, très pédagogue et à l'écoute des participants",FR,2024-08-23
+100,F010,Agile Scrum,FOR29,5,5.0,4.0,4.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets Un bon investissement pour mon développement de compétences.,FR,2024-08-23
+101,F002,SAP,FOR05,2,1.0,5.0,3.0,"Formation trop théorique, difficile à appliquer au quotidien Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-02-09
+102,F009,Communication,FOR25,3,2.0,3.0,3.0,"Contenu intéressant mais le rythme était parfois trop rapide Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-12-01
+103,F011,Tableau,FOR32,4,4.0,4.0,5.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets Le formateur FOR32 a fait preuve d'une grande expertise.,FR,2024-08-28
+104,F005,Excel Avancé,FOR15,1,1.0,4.0,1.0,Formation correcte mais un peu trop théorique à mon goût Les outils présentés sont directement applicables dans mon service.,FR,2024-02-09
+105,F002,SAP,FOR06,5,5.0,2.0,5.0,Pauses bien réparties permettant de maintenir la concentration Un bon investissement pour mon développement de compétences.,FR,2024-08-31
+106,F008,Management,FOR22,3,2.0,2.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide Les outils présentés sont directement applicables dans mon service.,FR,2024-07-17
+107,F010,Agile Scrum,FOR28,2,2.0,4.0,3.0,Formateur compétent mais manque d'exemples concrets d'application Un bon investissement pour mon développement de compétences.,FR,2024-12-05
+108,F011,Tableau,FOR33,3,3.0,5.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-12-16
+109,F011,Tableau,FOR32,5,5.0,4.0,4.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets,FR,2024-09-05
+110,F003,Processus Métier,FOR07,3,2.0,2.0,4.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-03-19
+111,F013,Gestion de projet,FOR39,2,1.0,5.0,3.0,Pédagogie adaptée mais manque de profondeur sur certains points,FR,2024-11-08
+112,F008,Management,FOR22,5,4.0,4.0,5.0,Matériel pédagogique de qualité et ressources complémentaires utiles,FR,2024-05-24
+113,F007,Python Data,FOR19,2,1.0,2.0,2.0,Manque d'exemples concrets et de retours d'expérience terrain,FR,2024-12-30
+114,F005,Excel Avancé,FOR13,1,1.0,2.0,1.0,Formation décevante par rapport aux attentes annoncées,FR,2024-01-14
+115,F006,Power BI,FOR16,4,4.0,1.0,5.0,"Pauses bien réparties permettant de maintenir la concentration Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-03-11
+116,F008,Management,FOR24,2,2.0,5.0,1.0,"Formation correcte mais un peu trop théorique à mon goût Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-10-07
+117,F007,Python Data,FOR19,2,1.0,3.0,3.0,Formation décevante par rapport aux attentes annoncées Le contenu était dense mais parfaitement structuré.,FR,2024-11-01
+118,F010,Agile Scrum,FOR28,1,1.0,3.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-07-03
+119,F009,Communication,FOR27,5,4.0,5.0,5.0,"Formation très utile et bien structurée, je recommande vivement Le formateur FOR27 a fait preuve d'une grande expertise.",FR,2024-06-25
+120,F002,SAP,FOR06,4,4.0,3.0,5.0,Matériel pédagogique de qualité et ressources complémentaires utiles,FR,2024-09-02
+121,F002,SAP,FOR06,3,2.0,3.0,3.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-10-05
+122,F011,Tableau,FOR31,3,2.0,4.0,3.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-08-13
+123,F003,Processus Métier,FOR08,4,4.0,2.0,3.0,Contenu dense mais bien présenté par un formateur expérimenté,FR,2024-04-02
+124,F002,SAP,FOR05,3,3.0,3.0,3.0,Organisation correcte mais matériel informatique à améliorer Cette formation correspondait parfaitement à mes attentes initiales.,FR,2024-11-10
+125,F013,Gestion de projet,FOR37,1,1.0,4.0,2.0,Formateur compétent mais manque d'exemples concrets d'application,FR,2024-03-14
+126,F008,Management,FOR22,3,3.0,5.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-07-08
+127,F010,Agile Scrum,FOR28,5,5.0,4.0,4.0,"Formation très utile et bien structurée, je recommande vivement",FR,2024-09-12
+128,F002,SAP,FOR05,3,2.0,4.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide Le formateur FOR05 a fait preuve d'une grande expertise.,FR,2024-08-19
+129,F002,SAP,FOR06,3,2.0,4.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-09-17
+130,F013,Gestion de projet,FOR37,2,1.0,4.0,2.0,Formation décevante par rapport aux attentes annoncées,FR,2024-10-09
+131,F002,SAP,FOR05,4,4.0,5.0,5.0,Rythme adapté permettant une bonne assimilation des connaissances Cette formation correspondait parfaitement à mes attentes initiales.,FR,2024-11-24
+132,F009,Communication,FOR26,2,1.0,3.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-06-04
+133,F012,Analyse de données,FOR34,3,3.0,2.0,4.0,Formation utile mais durée un peu courte pour le contenu abordé Les outils présentés sont directement applicables dans mon service.,FR,2024-11-10
+134,F003,Processus Métier,FOR09,5,4.0,2.0,5.0,Bonne ambiance de groupe mais contenu parfois trop généraliste,FR,2024-08-01
+135,F015,Ressources Humaines,FOR45,5,5.0,3.0,5.0,Formation enrichissante tant sur le plan professionnel que personnel Le formateur FOR45 a fait preuve d'une grande expertise.,FR,2024-12-18
+136,F008,Management,FOR23,2,1.0,4.0,2.0,"Formation trop théorique, difficile à appliquer au quotidien",FR,2024-03-07
+137,F002,SAP,FOR05,2,2.0,5.0,1.0,Formation correcte mais un peu trop théorique à mon goût Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-11-11
+138,F015,Ressources Humaines,FOR43,3,3.0,3.0,3.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-06-06
+139,F007,Python Data,FOR21,4,3.0,2.0,4.0,Salle de formation confortable et bien équipée techniquement,FR,2024-11-30
+140,F001,Lean Six Sigma,FOR01,5,5.0,5.0,5.0,"Excellent formateur, très pédagogue et à l'écoute des participants",FR,2024-04-09
+141,F007,Python Data,FOR21,4,4.0,2.0,3.0,Formation enrichissante tant sur le plan professionnel que personnel Cette formation correspondait parfaitement à mes attentes initiales.,FR,2024-10-12
+142,F004,Soft Skills,FOR12,5,4.0,2.0,5.0,Formateur passionné qui transmet bien son expertise métier,FR,2024-11-06
+143,F015,Ressources Humaines,FOR45,4,4.0,5.0,4.0,Bon équilibre entre apports théoriques et mises en pratique,FR,2024-07-07
+144,F007,Python Data,FOR21,3,2.0,5.0,4.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-10-25
+145,F012,Analyse de données,FOR36,3,2.0,2.0,3.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-07-30
+146,F013,Gestion de projet,FOR39,4,3.0,3.0,5.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets,FR,2024-09-01
+147,F003,Processus Métier,FOR08,5,5.0,4.0,4.0,Formation SAP technique mais bien expliquée pour les débutants Les outils présentés sont directement applicables dans mon service.,FR,2024-04-25
+148,F013,Gestion de projet,FOR38,2,2.0,4.0,3.0,Contenu de qualité mais manque d'interactivité avec le formateur Un bon investissement pour mon développement de compétences.,FR,2024-12-12
+149,F007,Python Data,FOR20,3,2.0,4.0,4.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-04-19
+150,F015,Ressources Humaines,FOR45,2,1.0,2.0,3.0,Pédagogie adaptée mais manque de profondeur sur certains points,FR,2024-01-27
+151,F008,Management,FOR22,1,1.0,5.0,1.0,Contenu de qualité mais manque d'interactivité avec le formateur La formation Management était particulièrement adaptée.,FR,2024-02-15
+152,F012,Analyse de données,FOR36,1,1.0,5.0,1.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-07-22
+153,F012,Analyse de données,FOR35,1,1.0,4.0,2.0,Manque d'exemples concrets et de retours d'expérience terrain,FR,2024-03-09
+154,F004,Soft Skills,FOR10,4,4.0,2.0,4.0,Checklists et templates fournis très utiles pour la mise en œuvre,FR,2024-04-08
+155,F015,Ressources Humaines,FOR44,4,3.0,,3.0,Support de cours bien fait mais exercices trop simples,FR,2024-05-07
+156,F013,Gestion de projet,FOR38,3,2.0,4.0,4.0,Contenu intéressant mais le rythme était parfois trop rapide Le formateur FOR38 a fait preuve d'une grande expertise.,FR,2024-08-26
+157,F009,Communication,FOR27,3,3.0,4.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-08-20
+158,F007,Python Data,FOR21,5,4.0,3.0,5.0,Rythme adapté permettant une bonne assimilation des connaissances,FR,2024-09-27
+159,F010,Agile Scrum,FOR28,1,1.0,3.0,2.0,Formation décevante par rapport aux attentes annoncées Je souhaiterais approfondir certains aspects lors d'une prochaine session.,FR,2024-10-25
+160,F008,Management,FOR22,5,5.0,2.0,5.0,,FR,2024-07-21
+161,F004,Soft Skills,FOR12,2,1.0,2.0,1.0,Formation décevante par rapport aux attentes annoncées Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-04-02
+162,F012,Analyse de données,FOR36,4,4.0,5.0,4.0,Formation enrichissante tant sur le plan professionnel que personnel L'approche pratique m'a beaucoup apporté professionnellement.,FR,2024-03-09
+163,F003,Processus Métier,FOR09,4,3.0,2.0,4.0,Matériel pédagogique de qualité et ressources complémentaires utiles,FR,2024-10-05
+164,F004,Soft Skills,FOR10,4,4.0,3.0,5.0,"Très bonne organisation logistique, salle confortable et équipée Je recommanderais cette formation à mes collègues sans hésitation.",FR,2024-11-10
+165,F001,Lean Six Sigma,FOR01,1,1.0,2.0,1.0,"Rythme trop rapide, pas assez de temps pour assimiler",FR,2024-10-03
+166,F001,Lean Six Sigma,FOR01,5,4.0,4.0,5.0,"Agile Scrum : méthodologie bien expliquée avec exemples concrets Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-12-04
+167,F005,Excel Avancé,FOR13,5,4.0,5.0,4.0,Très satisfait de cette formation qui répond à mes attentes,FR,2024-12-09
+168,F012,Analyse de données,FOR35,5,4.0,5.0,4.0,Python Data : bon équilibre théorie/pratique pour l'analyse,FR,2024-03-14
+169,F009,Communication,FOR26,4,3.0,5.0,3.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets,FR,2024-08-18
+170,F012,Analyse de données,FOR34,1,1.0,3.0,2.0,Manque d'exemples concrets et de retours d'expérience terrain Je souhaiterais approfondir certains aspects lors d'une prochaine session.,FR,2024-06-19
+171,F004,Soft Skills,FOR10,1,1.0,3.0,2.0,Pédagogie adaptée mais manque de profondeur sur certains points Je souhaiterais approfondir certains aspects lors d'une prochaine session.,FR,2024-10-09
+172,F008,Management,FOR24,3,3.0,5.0,4.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-06-12
+173,F007,Python Data,FOR19,5,4.0,2.0,5.0,Checklists et templates fournis très utiles pour la mise en œuvre,FR,2024-05-31
+174,F007,Python Data,FOR21,2,2.0,4.0,2.0,Formation décevante par rapport aux attentes annoncées,FR,2024-06-29
+175,F008,Management,FOR22,5,4.0,2.0,4.0,Horaires adaptés permettant un bon rythme d'apprentissage La formation Management était particulièrement adaptée.,FR,2024-07-30
+176,F002,SAP,FOR06,3,3.0,2.0,,Organisation correcte mais matériel informatique à améliorer,FR,2024-01-09
+177,F001,Lean Six Sigma,FOR03,3,3.0,2.0,4.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-04-01
+178,F003,Processus Métier,FOR07,2,2.0,4.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-08-23
+179,F004,Soft Skills,FOR11,1,,2.0,1.0,Manque d'exemples concrets et de retours d'expérience terrain,FR,2024-11-22
+180,F014,Marketing Digital,FOR41,3,2.0,2.0,4.0,Organisation correcte mais matériel informatique à améliorer Le formateur FOR41 a fait preuve d'une grande expertise.,FR,2024-12-16
+181,F010,Agile Scrum,FOR30,2,1.0,3.0,3.0,"Rythme trop rapide, pas assez de temps pour assimiler",FR,2024-06-02
+182,F014,Marketing Digital,FOR41,5,4.0,2.0,5.0,"Excellent formateur, très pédagogue et à l'écoute des participants Je souhaiterais approfondir certains aspects lors d'une prochaine session.",FR,2024-02-08
+183,F010,Agile Scrum,FOR29,4,4.0,5.0,5.0,Formation enrichissante tant sur le plan professionnel que personnel,FR,2024-12-14
+184,F013,Gestion de projet,FOR39,3,2.0,2.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-06-11
+185,F005,Excel Avancé,FOR14,3,2.0,2.0,3.0,Organisation correcte mais matériel informatique à améliorer Le formateur FOR14 a fait preuve d'une grande expertise.,FR,2024-06-30
+186,F013,Gestion de projet,FOR38,5,5.0,2.0,5.0,Formation SAP technique mais bien expliquée pour les débutants,FR,2024-03-27
+187,F005,Excel Avancé,FOR14,3,2.0,3.0,3.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-02-09
+188,F012,Analyse de données,FOR36,4,3.0,5.0,4.0,"Formation très utile et bien structurée, je recommande vivement",FR,2024-06-19
+189,F014,Marketing Digital,FOR41,4,3.0,4.0,5.0,Bonne ambiance de groupe mais contenu parfois trop généraliste,FR,2024-03-31
+190,F005,Excel Avancé,FOR15,4,3.0,4.0,4.0,Très satisfait de cette formation qui répond à mes attentes Un bon investissement pour mon développement de compétences.,FR,2024-04-12
+191,F011,Tableau,FOR33,1,1.0,3.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-07-28
+192,F005,Excel Avancé,FOR13,3,3.0,2.0,4.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-12-20
+193,F006,Power BI,FOR18,5,4.0,2.0,5.0,Horaires adaptés permettant un bon rythme d'apprentissage Un bon investissement pour mon développement de compétences.,FR,2024-01-23
+194,F011,Tableau,FOR32,3,3.0,2.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-07-19
+195,F012,Analyse de données,FOR36,2,1.0,5.0,2.0,"Contenu intéressant mais le rythme était parfois trop rapide Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-06-27
+196,F004,Soft Skills,FOR12,4,3.0,5.0,4.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets La formation Soft Skills était particulièrement adaptée.,FR,2024-12-29
+197,F011,Tableau,FOR31,2,1.0,3.0,2.0,Manque d'exemples concrets et de retours d'expérience terrain,FR,2024-08-24
+198,F003,Processus Métier,FOR07,4,3.0,5.0,4.0,"Formation très utile et bien structurée, je recommande vivement",FR,2024-04-15
+199,F013,Gestion de projet,FOR37,4,4.0,4.0,3.0,Soft Skills utiles pour améliorer la communication en équipe,FR,2024-09-07
+200,F010,Agile Scrum,FOR29,5,4.0,4.0,5.0,Salle de formation confortable et bien équipée techniquement Les outils présentés sont directement applicables dans mon service.,FR,2024-11-10
+201,F006,Power BI,FOR16,2,1.0,4.0,3.0,"Rythme trop rapide, pas assez de temps pour assimiler",FR,2024-03-11
+202,F008,Management,FOR24,5,4.0,3.0,4.0,Formation utile mais durée un peu courte pour le contenu abordé Le contenu était dense mais parfaitement structuré.,FR,2024-11-13
+203,F001,Lean Six Sigma,FOR02,3,3.0,5.0,3.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-02-12
+204,F004,Soft Skills,FOR11,2,1.0,5.0,2.0,Manque d'exemples concrets et de retours d'expérience terrain,FR,2024-10-20
+205,F014,Marketing Digital,FOR41,5,4.0,5.0,5.0,"Très bonne organisation logistique, salle confortable et équipée",FR,2024-11-30
+206,F001,Lean Six Sigma,FOR02,3,2.0,5.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide Un bon investissement pour mon développement de compétences.,FR,2024-12-18
+207,F011,Tableau,FOR32,2,1.0,3.0,3.0,"Formation trop théorique, difficile à appliquer au quotidien",FR,2024-11-01
+208,F012,Analyse de données,FOR35,3,2.0,3.0,3.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-12-01
+209,F004,Soft Skills,FOR10,3,3.0,5.0,4.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-07-11
+210,F015,Ressources Humaines,FOR43,4,4.0,4.0,4.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets,FR,2024-02-17
+211,F011,Tableau,FOR33,3,3.0,3.0,2.0,Organisation correcte mais matériel informatique à améliorer Les outils présentés sont directement applicables dans mon service.,FR,2024-06-21
+212,F014,Marketing Digital,FOR41,3,2.0,2.0,2.0,,FR,2024-03-21
+213,F007,Python Data,FOR19,2,2.0,3.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-05-08
+214,F011,Tableau,FOR31,1,1.0,3.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide Le contenu était dense mais parfaitement structuré.,FR,2024-02-09
+215,F011,Tableau,FOR32,2,1.0,5.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide Le formateur FOR32 a fait preuve d'une grande expertise.,FR,2024-02-22
+216,F005,Excel Avancé,FOR13,4,3.0,1.0,5.0,Pauses bien réparties permettant de maintenir la concentration Cette formation correspondait parfaitement à mes attentes initiales.,FR,2024-04-19
+217,F007,Python Data,FOR21,4,3.0,2.0,3.0,Checklists et templates fournis très utiles pour la mise en œuvre,FR,2024-06-28
+218,F003,Processus Métier,FOR07,3,2.0,4.0,4.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-12-03
+219,F010,Agile Scrum,FOR30,2,2.0,2.0,1.0,Formation décevante par rapport aux attentes annoncées Je souhaiterais approfondir certains aspects lors d'une prochaine session.,FR,2024-09-12
+220,F015,Ressources Humaines,FOR43,3,2.0,5.0,4.0,"Organisation correcte mais matériel informatique à améliorer Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-08-29
+221,F001,Lean Six Sigma,FOR03,1,1.0,2.0,1.0,Manque d'exemples concrets et de retours d'expérience terrain L'approche pratique m'a beaucoup apporté professionnellement.,FR,2024-07-31
+222,F011,Tableau,FOR33,5,5.0,2.0,5.0,Bonne ambiance de groupe mais contenu parfois trop généraliste,FR,2024-03-20
+223,F011,Tableau,FOR33,1,1.0,1.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-11-07
+224,F011,Tableau,FOR33,1,1.0,3.0,1.0,Manque d'exemples concrets et de retours d'expérience terrain,FR,2024-05-12
+225,F013,Gestion de projet,FOR38,1,1.0,4.0,1.0,Manque d'exemples concrets et de retours d'expérience terrain Un bon investissement pour mon développement de compétences.,FR,2024-11-17
+226,F006,Power BI,FOR16,4,3.0,4.0,3.0,Checklists et templates fournis très utiles pour la mise en œuvre,FR,2024-02-29
+227,F001,Lean Six Sigma,FOR01,3,3.0,3.0,2.0,Organisation correcte mais matériel informatique à améliorer Je souhaiterais approfondir certains aspects lors d'une prochaine session.,FR,2024-08-01
+228,F014,Marketing Digital,FOR40,5,4.0,3.0,5.0,"Excellent formateur, très pédagogue et à l'écoute des participants",FR,2024-02-05
+229,F013,Gestion de projet,FOR38,4,3.0,4.0,5.0,Python Data : bon équilibre théorie/pratique pour l'analyse,FR,2024-05-04
+230,F008,Management,FOR22,5,4.0,2.0,4.0,Formation SAP technique mais bien expliquée pour les débutants,FR,2024-11-21
+231,F006,Power BI,FOR16,4,4.0,2.0,3.0,Contenu dense mais bien présenté par un formateur expérimenté,FR,2024-01-31
+232,F005,Excel Avancé,FOR13,1,1.0,4.0,2.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-09-15
+233,F002,SAP,FOR06,4,3.0,4.0,4.0,Formation enrichissante tant sur le plan professionnel que personnel,FR,2024-06-16
+234,F002,SAP,FOR04,2,1.0,3.0,2.0,Formation décevante par rapport aux attentes annoncées Le formateur FOR04 a fait preuve d'une grande expertise.,FR,2024-10-01
+235,F008,Management,FOR23,3,2.0,3.0,3.0,Formation correcte mais un peu trop théorique à mon goût Cette formation correspondait parfaitement à mes attentes initiales.,FR,2024-03-16
+236,F006,Power BI,FOR17,5,5.0,2.0,5.0,Recommandation sans réserve pour cette formation de qualité,FR,2024-05-07
+237,F013,Gestion de projet,FOR37,1,1.0,3.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-05-12
+238,F002,SAP,FOR04,4,3.0,4.0,4.0,"Excellent formateur, très pédagogue et à l'écoute des participants Un bon investissement pour mon développement de compétences.",FR,2024-08-09
+239,F001,Lean Six Sigma,FOR02,3,2.0,4.0,2.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-11-11
+240,F007,Python Data,FOR21,5,5.0,3.0,5.0,Formateur passionné qui transmet bien son expertise métier L'approche pratique m'a beaucoup apporté professionnellement.,FR,2024-01-10
+241,F006,Power BI,FOR17,5,5.0,4.0,4.0,"Formation très utile et bien structurée, je recommande vivement Je souhaiterais approfondir certains aspects lors d'une prochaine session.",FR,2024-01-16
+242,F001,Lean Six Sigma,FOR02,5,4.0,3.0,5.0,Formation SAP technique mais bien expliquée pour les débutants La formation Lean Six Sigma était particulièrement adaptée.,FR,2024-04-22
+243,F007,Python Data,FOR20,3,3.0,2.0,3.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-04-06
+244,F008,Management,FOR24,2,1.0,2.0,1.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-01-01
+245,F013,Gestion de projet,FOR37,3,3.0,1.0,2.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-07-10
+246,F010,Agile Scrum,FOR28,3,2.0,3.0,3.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-03-30
+247,F015,Ressources Humaines,FOR45,2,2.0,4.0,2.0,Formateur compétent mais manque d'exemples concrets d'application La formation Ressources Humaines était particulièrement adaptée.,FR,2024-12-25
+248,F013,Gestion de projet,FOR39,2,1.0,2.0,1.0,"Formation trop théorique, difficile à appliquer au quotidien",FR,2024-05-01
+249,F011,Tableau,FOR31,3,3.0,3.0,2.0,Formation utile mais durée un peu courte pour le contenu abordé Le formateur FOR31 a fait preuve d'une grande expertise.,FR,2024-01-01
+250,F007,Python Data,FOR19,4,4.0,4.0,3.0,Bon équilibre entre apports théoriques et mises en pratique,FR,2024-10-22
+251,F003,Processus Métier,FOR08,1,1.0,2.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-03-23
+252,F015,Ressources Humaines,FOR43,3,3.0,2.0,4.0,Contenu intéressant mais le rythme était parfois trop rapide,FR,2024-08-10
+253,F004,Soft Skills,FOR10,4,4.0,4.0,3.0,"Excellent formateur, très pédagogue et à l'écoute des participants L'approche pratique m'a beaucoup apporté professionnellement.",FR,2024-09-08
+254,F007,Python Data,FOR19,3,3.0,1.0,2.0,Formation utile mais durée un peu courte pour le contenu abordé,FR,2024-08-30
+255,F007,Python Data,FOR20,4,4.0,2.0,4.0,Formation utile mais durée un peu courte pour le contenu abordé Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-07-08
+256,F008,Management,FOR23,4,3.0,3.0,5.0,"Très bonne organisation logistique, salle confortable et équipée Cette formation correspondait parfaitement à mes attentes initiales.",FR,2024-10-04
+257,F004,Soft Skills,FOR12,1,1.0,5.0,1.0,Formation décevante par rapport aux attentes annoncées Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-12-31
+258,F009,Communication,FOR27,5,4.0,3.0,4.0,Support de cours bien fait mais exercices trop simples Le formateur FOR27 a fait preuve d'une grande expertise.,FR,2024-12-15
+259,F011,Tableau,FOR31,4,3.0,5.0,5.0,Agile Scrum : méthodologie bien expliquée avec exemples concrets,FR,2024-09-23
+260,F013,Gestion de projet,FOR39,5,5.0,2.0,4.0,Checklists et templates fournis très utiles pour la mise en œuvre,FR,2024-02-21
+261,F002,SAP,FOR05,5,5.0,4.0,5.0,Checklists et templates fournis très utiles pour la mise en œuvre,FR,2024-01-20
+262,F010,Agile Scrum,FOR30,5,4.0,2.0,5.0,Très satisfait de cette formation qui répond à mes attentes Les outils présentés sont directement applicables dans mon service.,FR,2024-06-08
+263,F012,Analyse de données,FOR36,1,1.0,3.0,2.0,Formation décevante par rapport aux attentes annoncées,FR,2024-06-13
+264,F011,Tableau,FOR31,2,2.0,5.0,2.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-03-22
+265,F007,Python Data,FOR19,5,4.0,3.0,4.0,"Excellent formateur, très pédagogue et à l'écoute des participants Le contenu était dense mais parfaitement structuré.",FR,2024-01-26
+266,F005,Excel Avancé,FOR14,4,3.0,2.0,4.0,Salle de formation confortable et bien équipée techniquement,FR,2024-08-30
+267,F003,Processus Métier,FOR08,2,1.0,3.0,1.0,Pédagogie adaptée mais manque de profondeur sur certains points,FR,2024-12-12
+268,F009,Communication,FOR25,1,1.0,3.0,1.0,Pédagogie adaptée mais manque de profondeur sur certains points Les outils présentés sont directement applicables dans mon service.,FR,2024-12-30
+269,F007,Python Data,FOR20,3,2.0,5.0,4.0,Organisation correcte mais matériel informatique à améliorer,FR,2024-01-04
+270,F014,Marketing Digital,FOR41,5,5.0,4.0,5.0,Rythme adapté permettant une bonne assimilation des connaissances Les outils présentés sont directement applicables dans mon service.,FR,2024-11-23
+271,F011,Tableau,FOR33,2,1.0,5.0,3.0,Formateur compétent mais manque d'exemples concrets d'application,FR,2024-12-01
+272,F015,Ressources Humaines,FOR44,4,3.0,3.0,5.0,Formation SAP technique mais bien expliquée pour les débutants,FR,2024-11-22
+273,F011,Tableau,FOR32,5,4.0,3.0,5.0,Support de cours bien fait mais exercices trop simples,FR,2024-10-13
+274,F011,Tableau,FOR32,1,1.0,5.0,1.0,"Formation trop théorique, difficile à appliquer au quotidien Les outils présentés sont directement applicables dans mon service.",FR,2024-08-25
+275,F014,Marketing Digital,FOR42,5,4.0,5.0,5.0,"Très bonne organisation logistique, salle confortable et équipée",FR,2024-07-14
+276,F014,Marketing Digital,FOR40,2,2.0,5.0,2.0,"Formateur compétent mais manque d'exemples concrets d'application Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-02-11
+277,F003,Processus Métier,FOR08,2,1.0,3.0,1.0,Formation décevante par rapport aux attentes annoncées,FR,2024-02-15
+278,F007,Python Data,FOR20,4,4.0,1.0,5.0,Très satisfait de cette formation qui répond à mes attentes,FR,2024-06-13
+279,F001,Lean Six Sigma,FOR03,1,1.0,3.0,1.0,Contenu de qualité mais manque d'interactivité avec le formateur Je recommanderais cette formation à mes collègues sans hésitation.,FR,2024-09-14
+280,F014,Marketing Digital,FOR40,3,3.0,4.0,4.0,Contenu intéressant mais le rythme était parfois trop rapide Le contenu était dense mais parfaitement structuré.,FR,2024-07-02
+281,F015,Ressources Humaines,FOR44,1,1.0,2.0,1.0,Contenu intéressant mais le rythme était parfois trop rapide La formation Ressources Humaines était particulièrement adaptée.,FR,2024-07-11
+282,F009,Communication,FOR27,1,1.0,2.0,1.0,Formation correcte mais un peu trop théorique à mon goût,FR,2024-08-01
+283,F005,Excel Avancé,FOR14,1,1.0,5.0,2.0,Manque d'exemples concrets et de retours d'expérience terrain Un bon investissement pour mon développement de compétences.,FR,2024-12-24
+284,F002,SAP,FOR06,4,3.0,5.0,3.0,Soft Skills utiles pour améliorer la communication en équipe,FR,2024-04-13
+285,F003,Processus Métier,FOR07,5,4.0,5.0,4.0,"Formation très utile et bien structurée, je recommande vivement",FR,2024-02-26
+286,F003,Processus Métier,FOR07,4,4.0,3.0,4.0,Soft Skills utiles pour améliorer la communication en équipe,FR,2024-02-21
+287,F014,Marketing Digital,FOR41,3,3.0,5.0,2.0,"Formation correcte mais un peu trop théorique à mon goût Pour mon poste actuel, cette formation s'avère très pertinente.",FR,2024-12-05
+288,F015,Ressources Humaines,FOR44,4,4.0,4.0,4.0,Formation enrichissante tant sur le plan professionnel que personnel,FR,2024-05-19
+289,F008,Management,FOR23,1,1.0,2.0,2.0,Formation décevante par rapport aux attentes annoncées,FR,2024-12-13
+290,F013,Gestion de projet,FOR38,4,4.0,5.0,4.0,Matériel pédagogique de qualité et ressources complémentaires utiles Les outils présentés sont directement applicables dans mon service.,FR,2024-12-01
+291,F011,Tableau,FOR33,5,4.0,4.0,5.0,Salle de formation confortable et bien équipée techniquement Je souhaiterais approfondir certains aspects lors d'une prochaine session.,FR,2024-09-03
+292,F007,Python Data,FOR19,5,4.0,2.0,4.0,Formateur passionné qui transmet bien son expertise métier,FR,2024-09-10
+293,F008,Management,FOR23,2,2.0,2.0,3.0,"Rythme trop rapide, pas assez de temps pour assimiler",FR,2024-04-30
+294,F010,Agile Scrum,FOR29,1,1.0,4.0,1.0,,FR,2024-01-19
+295,F002,SAP,FOR06,5,4.0,5.0,5.0,"Excellent formateur, très pédagogue et à l'écoute des participants",FR,2024-08-20
+296,F010,Agile Scrum,FOR29,3,2.0,2.0,2.0,Formation correcte mais un peu trop théorique à mon goût Les outils présentés sont directement applicables dans mon service.,FR,2024-10-07
+297,F001,Lean Six Sigma,FOR01,5,4.0,4.0,4.0,"Très bonne organisation logistique, salle confortable et équipée",FR,2024-07-20
+298,F004,Soft Skills,FOR12,4,3.0,2.0,4.0,Matériel pédagogique de qualité et ressources complémentaires utiles,FR,2024-09-15
+299,F009,Communication,FOR27,1,1.0,5.0,1.0,Formateur compétent mais manque d'exemples concrets d'application,FR,2024-03-06
+300,F010,Agile Scrum,FOR29,5,5.0,3.0,5.0,Python Data : bon équilibre théorie/pratique pour l'analyse,FR,2024-03-09
